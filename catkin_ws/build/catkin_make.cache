@@ -1,0 +1,2 @@
+control_pkg
+-DCATKIN_DEVEL_PREFIX=/home/pi/Navio-Rpi-ComputerVision-DroneControl/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/Navio-Rpi-ComputerVision-DroneControl/catkin_ws/install -G Unix Makefiles
